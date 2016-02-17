@@ -1,8 +1,11 @@
 # PocketMine-MP
 Beta Plugins test for MinecraftPE!
 
-I'm hard working make plugin!
+# Licends
+----------
+This Plugin was protected by MegaProtection
 
-@Copyright itsMegaMCPE 2015
+
+@Copyright iTCMega 2016
 
 
