@@ -1,0 +1,12 @@
+name: FunParty
+author: itsMegaMCPE
+version: 1.0.0
+main: FP\Main
+api: [1.13.0]
+description: Party with ur friend with easy cmd!
+
+commands:
+  FP:
+    description: FP command
+    usage: "/party <invite|accept|not"
+    permission: FP.command.FP
